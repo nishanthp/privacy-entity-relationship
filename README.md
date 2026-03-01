@@ -93,6 +93,5 @@ Example:
 
 ### Original Text (Control)
 
-No privacy transformation.
-
-Used as experimental control.
+ - No privacy transformation.
+ - Used as experimental control.
