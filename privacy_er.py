@@ -4,7 +4,6 @@ Unbiased Privacy-Preserving NLP Experiments with Real Datasets
 Rigorous experimental framework designed to fairly test the hypothesis without bias
 """
 
-# START GENAI@GHCOPILOT
 import os
 import json
 import numpy as np
@@ -1322,5 +1321,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# END GENAI@GHCOPILOT
 
